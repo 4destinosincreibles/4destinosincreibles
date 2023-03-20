@@ -47,7 +47,7 @@
                         <li><a href="londres.html">LONDRES</a>
                         </li>
                         <li>
-                           <a>AMSTERDAM</a>			    
+                           <a href="amsterdamcomplementaria.html">AMSTERDAM</a>			    
                            <ul>
                               <li><a>LOCALIZACIÓN</a>
                               </li>
